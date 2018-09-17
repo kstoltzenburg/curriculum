@@ -4,7 +4,7 @@ Welcome to the SWTC curriculum that contains lesson plans and exercises for each
 
 The lessons plans are as follows:
 
-* [Session 0 – Become a mentor – Lesson plan](https://www.softwaretestingclinic.com/lesson-plans/training-mentors/)
+* Session 0 – Become a mentor – Lesson plan
 * [Session 1 – What is testing? – Lesson plan](http://www.softwaretestingclinic.com/lesson-plans/what-is-testing/)
 * [Session 2 – Identifying risks – Lesson plan](http://www.softwaretestingclinic.com/lesson-plans/identifying-risks/)
 * [Session 3 – ET and chartering- Lesson plan](http://www.softwaretestingclinic.com/lesson-plans/et-chartering/)
