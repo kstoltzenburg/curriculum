@@ -1,7 +1,5 @@
 # Session 0 - Become a Mentor - Lesson plan
 
-
-
 ## **Learning objectives:**
 
 **By the end of the session Mentors will be able to:**
@@ -275,5 +273,5 @@
   </tbody>
 </table>## **Activities after the session:**
 
-* **Register/log in to the Club \(http://club.ministryoftesting.com\) and continue discussions and share experiences.**
+* **Register/log in to the Club \(**[**http://club.ministryoftesting.com**](http://club.ministryoftesting.com)**\) and continue discussions and share experiences.**
 
