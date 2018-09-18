@@ -1,4 +1,4 @@
-# Session 1 - What is Testing - Lesson plan
+# Session 1 - What is testing - Lesson plan
 
 ## **Learning objectives:**
 
@@ -208,7 +208,7 @@
           </li>
         </ul>
       </td>
-      <td style="text-align:left"><b>Whiteboard and pens, levels of understanding: </b><a href="http://www.leaderwholeads.com/levels-of-listening.html"><b>http://www.leaderwholeads.com/levels-of-listening.html</b></a>
+      <td style="text-align:left"><b>Whiteboard and pens, levels of understanding:</b>  <a href="http://www.leaderwholeads.com/levels-of-listening.html"><b>http://www.leaderwholeads.com/levels-of-listening.html</b></a>
       </td>
     </tr>
     <tr>
@@ -271,8 +271,7 @@
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>
-
-## **Activities after the session:**
+</table>## **Activities after the session:**
 
 * **Register/log in to the Club \(**[**http://club.ministryoftesting.com**](http://club.ministryoftesting.com)**\) and continue discussions and share experiences.**
+
