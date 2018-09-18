@@ -13,4 +13,5 @@
 * [Session 6 - Testing Requirements - Lesson plan](lesson-plans/session-6-testing-requirements-lesson-plan.md)
 * [Session 7 - Talking about testing - Lesson plan](lesson-plans/session-7-talking-about-testing-lesson-plan.md)
 * [Session 8 - Technical Testing - Lesson plan](lesson-plans/session-8-technical-testing-lesson-plan.md)
+* [Session 9 - Automation - Lesson plan](lesson-plans/session-9-automation-lesson-plan.md)
 

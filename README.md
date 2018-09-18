@@ -13,7 +13,7 @@ The lessons plans are as follows:
 * [Session 6 – Testing requirements – Lesson plan](lesson-plans/session-6-testing-requirements-lesson-plan.md)
 * [Session 7 – Talking about testing – Lesson plan](lesson-plans/session-7-talking-about-testing-lesson-plan.md)
 * [Session 8 – Technical testing – Lesson plan](lesson-plans/session-8-technical-testing-lesson-plan.md)
-* Session 9 – Automation – Lesson plan
+* [Session 9 – Automation – Lesson plan](lesson-plans/session-9-automation-lesson-plan.md)
 * Session 10 – Testing in agile – Lesson plan
 * Session 11 – Interviewing testers – Lesson plan
 * Session 12 – Ask us anything – Lesson plan
