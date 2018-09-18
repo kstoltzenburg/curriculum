@@ -14,4 +14,5 @@
 * [Session 7 - Talking about testing - Lesson plan](lesson-plans/session-7-talking-about-testing-lesson-plan.md)
 * [Session 8 - Technical Testing - Lesson plan](lesson-plans/session-8-technical-testing-lesson-plan.md)
 * [Session 9 - Automation - Lesson plan](lesson-plans/session-9-automation-lesson-plan.md)
+* [Session 10 - Testing in agile - Lesson plan](lesson-plans/session-10-testing-in-agile-lesson-plan.md)
 
