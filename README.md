@@ -9,7 +9,7 @@ The lessons plans are as follows:
 * [Session 2 – Identifying risks – Lesson plan](lesson-plans/session-2-identifying-risks-lesson-plan.md)
 * [Session 3 – ET and chartering- Lesson plan](lesson-plans/session-3-et-and-chartering-lesson-plan.md)
 * [Session 4 – Designing tests – Lesson plan](lesson-plans/session-4-designing-tests-lesson-plan.md)
-* Session 5 – Taking testing notes – Lesson plan
+* [Session 5 – Taking testing notes – Lesson plan](lesson-plans/session-5-taking-testing-notes-lesson-plan.md)
 * Session 6 – Testing requirements – Lesson plan
 * Session 7 – Talking about testing – Lesson plan
 * Session 8 – Technical testing – Lesson plan
