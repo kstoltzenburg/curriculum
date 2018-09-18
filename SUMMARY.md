@@ -12,4 +12,5 @@
 * [Session 5 - Taking testing notes - Lesson plan](lesson-plans/session-5-taking-testing-notes-lesson-plan.md)
 * [Session 6 - Testing Requirements - Lesson plan](lesson-plans/session-6-testing-requirements-lesson-plan.md)
 * [Session 7 - Talking about testing - Lesson plan](lesson-plans/session-7-talking-about-testing-lesson-plan.md)
+* [Session 8 - Technical Testing - Lesson plan](lesson-plans/session-8-technical-testing-lesson-plan.md)
 
