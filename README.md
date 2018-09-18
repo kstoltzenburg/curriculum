@@ -10,7 +10,7 @@ The lessons plans are as follows:
 * [Session 3 – ET and chartering- Lesson plan](lesson-plans/session-3-et-and-chartering-lesson-plan.md)
 * [Session 4 – Designing tests – Lesson plan](lesson-plans/session-4-designing-tests-lesson-plan.md)
 * [Session 5 – Taking testing notes – Lesson plan](lesson-plans/session-5-taking-testing-notes-lesson-plan.md)
-* Session 6 – Testing requirements – Lesson plan
+* [Session 6 – Testing requirements – Lesson plan](lesson-plans/session-6-testing-requirements-lesson-plan.md)
 * Session 7 – Talking about testing – Lesson plan
 * Session 8 – Technical testing – Lesson plan
 * Session 9 – Automation – Lesson plan
