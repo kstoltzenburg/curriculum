@@ -213,7 +213,9 @@ By the end of the session Mentors will be able to:
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>### **Activities after the session**
+</table>
+
+### Activities after the session
 
 * Register/log in to the Club \([http://club.ministryoftesting.com](http://club.ministryoftesting.com)\) and continue discussions and share experiences.
 
