@@ -218,7 +218,9 @@ Students will be recommended to view the following videos:
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>### **Activities after the session**
+</table>
+
+### **Activities after the session**
 
 * Clinic hosts will post a requirement onto the Club and students are encouraged to test the requirement and submit their questions and observations on the forum.
 
