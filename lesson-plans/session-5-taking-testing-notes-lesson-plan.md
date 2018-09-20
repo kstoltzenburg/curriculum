@@ -14,6 +14,7 @@ By the end of the session students will be able to:
 Students will be recommended to view the following videos:
 
 * Note taking - [https://dojo.ministryoftesting.com/lessons/99-second-introduction-to-testing-notes](https://dojo.ministryoftesting.com/lessons/99-second-introduction-to-testing-notes)
+* Diagrams - [https://dojo.ministryoftesting.com/dojo/lessons/99-second-introduction-to-diagrams](https://dojo.ministryoftesting.com/dojo/lessons/99-second-introduction-to-diagrams)
 * Exploratory testing - [https://dojo.ministryoftesting.com/lessons/99-second-introduction-to-exploratory-testing](https://dojo.ministryoftesting.com/lessons/99-second-introduction-to-exploratory-testing)
 * Heuristics - [https://dojo.ministryoftesting.com/lessons/99-second-introduction-to-heuristics](https://dojo.ministryoftesting.com/lessons/99-second-introduction-to-heuristics)
 
