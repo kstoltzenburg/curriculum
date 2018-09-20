@@ -241,7 +241,9 @@ Students will be recommended to view the following videos:
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>### Activities after the session
+</table>
+
+### Activities after the session
 
 * Pick a site you’re interested in and run the same identifying risk exercise against that site by yourself. Submit risks you have identified specific to that site on The Club.
 
