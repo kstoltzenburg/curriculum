@@ -248,7 +248,7 @@ Students will be recommended to view the following videos:
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>### \*\*\*\*
+</table>
 
 ### **Activities after the session**
 
